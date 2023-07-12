@@ -1,0 +1,1 @@
+(()=>{"use strict";class e{constructor(e,s=100,n=[]){this.name=e,this.energy=s,this.apparel=n}rest(e=1){this.energy+=2*e}}console.log(e);const s=new e("Jiminy");s.jump(),s.jump(),s.jump(),console.log(s.energy)})();
